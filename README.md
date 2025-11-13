@@ -35,7 +35,11 @@ Os únicos bloqueios restantes são aqueles que **dependem de ossos**, pois aind
 ---
 ## 🌻 1 - Girassois de Van Gogh 🌻
 
-Apesar dos girassóis não fazerem parte do desbloqueio da cartola eles são pontosto fundamentais para agilizar todo o processo, apesar de podermos deixar o jogo rodando infinitamente, não é isso que queremos, queremos produzir o mais rápido possível!
-Para termos certeza de que o código está bem otimizados, vamos nos basear na conquista Mestre dos Girassóis onde devemos produzir 12.000 de energia em 1 minuto.
+Apesar dos girassóis não fazerem parte do desbloqueio da cartola eles são pontos fundamentais para agilizar todo o processo, apesar de podermos deixar o jogo rodando infinitamente, não é isso que queremos, queremos produzir o mais rápido possível!
+Inicialmente não iremos otimizar todos os códigos, uma vez que temos alguns desbloqueios para fazer e podemos mudar muito da versão atual para a final, tendo isso em mente por enquanto o código ficará bem básico!
+(Primero criamos depois oimizamos)
+Nesse ponto temos dois códigos:
+1. Movimentacao - onde temos uma movimentação genérica que provavelmente iremos reutilizar
+2. VanGogh - onde consta o código referente ao girassol
 
 
